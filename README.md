@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I'm Yann Vasques 👋
 
-<!--
-**yvasques/yvasques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+🎓 Taking a Web Development course
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently studying HTML, CSS, and JavaScript
+
+🌱 Always learning something new about technology and art.
+
+🎨 Passionate about design and movies
+
+🚀 Technologies & Tools
+
+Front-end: HTML, CSS, JavaScript (learning in progress)
+
+Tools: VS Code, GitHub
+
+Others: Photoshop, Premiere, Canvas
