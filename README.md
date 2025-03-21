@@ -2,19 +2,18 @@
 
 ### About Me ##
 
-🎓 Taking a Web Development course
 
-💻 Currently studying HTML, CSS, and JavaScript
-
-🌱 Always learning something new about technology and art
+💻 Currently studying JavaScript
 
 🎨 Passionate about design and movies
+
+🌱 Always learning something new about technology and art
 
 
 ### 🚀 Technologies & Tools:
 
-Front-end: HTML, CSS, JavaScript (learning in progress)
+Front-end: HTML, CSS, JavaScript.
 
 Tools: VS Code, GitHub
 
-Others: Photoshop, Premiere, Canvas
+Others: Photoshop, Premiere, Canvas.
