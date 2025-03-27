@@ -17,4 +17,4 @@
 
 Technologies: HTML, CSS, JavaScript, Typescript, Git
 
-Others: Photoshop, Premiere, Lightroom, Final Cut, Canvas.
+Others: Photoshop, Premiere, Lightroom, Final Cut.
