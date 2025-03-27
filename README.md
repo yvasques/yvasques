@@ -3,17 +3,18 @@
 ### About Me ##
 
 
-💻 Currently studying JavaScript
+💻 Currently studying a Fullstack course by B7Web
 
-🎨 Passionate about design and movies
+🎨 Passionate about design
 
 🌱 Always learning something new about technology and art
 
+🗣️ Portuguese and English fluent
 
-### 🚀 Technologies & Tools:
 
-Front-end: HTML, CSS, JavaScript.
 
-Tools: VS Code, GitHub
+### Technologies & Tools:
 
-Others: Photoshop, Premiere, Canvas.
+Technologies: HTML, CSS, JavaScript, Typescript, Git
+
+Others: Photoshop, Premiere, Lightroom, Final Cut, Canvas.
